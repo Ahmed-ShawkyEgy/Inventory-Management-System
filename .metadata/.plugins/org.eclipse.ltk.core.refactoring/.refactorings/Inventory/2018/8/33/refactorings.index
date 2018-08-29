@@ -1,0 +1,16 @@
+1534064672683	Delete element
+1534064688912	Delete elements
+1534064692154	Delete element
+1534064697829	Delete elements
+1534064704298	Delete element
+1534064921651	Rename field 'usernameOrEmail'
+1534064944471	Rename method 'getUsernameOrEmail'
+1534064962421	Rename method 'setUsernameOrEmail'
+1534064970862	Rename local variable 'usernameOrEmail'
+1534066005569	Delete element
+1534066019192	Delete element
+1534073919891	Delete element
+1534233989778	Rename package 'com.orange'
+1534244747236	Rename method 'discardAllItemsByItem'
+1534327438815	Rename local variable 'out'
+1534327446169	Rename local variable 'output'
